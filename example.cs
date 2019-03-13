@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-// segundo commit
+//segundo cambio
 
 public class CameraFollow : MonoBehaviour {
 
